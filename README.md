@@ -1,4 +1,4 @@
-:ramen: :cat: :fish: miso-lynx-haddocks
+:ramen: 🐈 :fish: miso-lynx-haddocks
 ============================
 
 See [live](https://lynx-haddocks.haskell-miso.org).
