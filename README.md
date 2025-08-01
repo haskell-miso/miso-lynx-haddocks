@@ -3,4 +3,4 @@
 
 See [live](https://lynx-haddocks.haskell-miso.org).
 
-Placeholder repository to push [miso](https://github.com/dmjio/miso-lynx)'s haddocks.
+Placeholder repository to push [miso-lynx](https://github.com/dmjio/miso-lynx)'s haddocks.
