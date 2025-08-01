@@ -22,12 +22,12 @@ jobs:
           github_access_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build haddocks
-        run: git clone --depth=1 https://github.com/dmjio/miso-lynx && cd miso-lynx && nix develop --command bash -c 'cabal haddock-project'
+        run: nix develop --command bash -c 'nix build && ./result/bin/haddock'
 
       - name: Upload haddocks
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./miso-lynx/haddocks
+          path: ./miso/haddocks
 
   deploy:
     if: github.ref == 'refs/heads/master'
