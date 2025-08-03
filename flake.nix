@@ -29,6 +29,7 @@
           cd miso
           git reset --hard ${nodes.miso.locked.rev}
           cabal update
+          cabal configure --flag miso:+template-haskell
           cabal haddock-project
           cd ..
           cp -rv ./miso/haddocks/miso ./miso-lynx/haddocks/
