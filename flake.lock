@@ -1161,11 +1161,11 @@
         "servant": "servant"
       },
       "locked": {
-        "lastModified": 1754060044,
-        "narHash": "sha256-l6Ppjd3uw1G4ZkTrHap7+taiPLDW++/ufEn5oOjcQRE=",
+        "lastModified": 1754168959,
+        "narHash": "sha256-KH13IUb5N55LJ2zGa7E/NIubgctwP1VfbLHRxecxnTA=",
         "owner": "dmjio",
         "repo": "miso",
-        "rev": "5c4d63ff29d2ea3fed78c7a7a97d3e56e9afec2c",
+        "rev": "3fea02a8e7424e4836e281664909794445335c62",
         "type": "github"
       },
       "original": {
@@ -1179,11 +1179,11 @@
         "miso": "miso_2"
       },
       "locked": {
-        "lastModified": 1754060782,
-        "narHash": "sha256-+nTE1wSXmeiHV9eY+3pvr0pdSI/3ur2FYwFqSoMNG3Q=",
+        "lastModified": 1754074321,
+        "narHash": "sha256-dqES2pHpk/OrDj5ftciRJwffINS3tKLf8TuzLnVCaDM=",
         "owner": "dmjio",
         "repo": "miso-lynx",
-        "rev": "410063f78a0192b5da68d0c25e6ed37e3b239209",
+        "rev": "b0f3471961cfac71e8878cf9cd074c051293aeab",
         "type": "github"
       },
       "original": {
@@ -1472,11 +1472,11 @@
     },
     "nixpkgs_7": {
       "locked": {
-        "lastModified": 1753934836,
-        "narHash": "sha256-G06FmIBj0I5bMW1Q8hAEIl5N7IHMK7+Ta4KA+BmneDA=",
+        "lastModified": 1754151594,
+        "narHash": "sha256-S30TWshtDmNlU30u842RidFUraKj1f2dd4nrKRHm3gE=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "8679b16e11becd487b45d568358ddf9d5640d860",
+        "rev": "7b6929d8b900de3142638310f8bc40cff4f2c507",
         "type": "github"
       },
       "original": {
