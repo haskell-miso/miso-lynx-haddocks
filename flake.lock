@@ -79,11 +79,11 @@
       },
       "locked": {
         "host": "gitlab.haskell.org",
-        "lastModified": 1766772552,
-        "narHash": "sha256-uhZuncXNHxCTkVUQCJq7doMxamx6hzLeKVkL1GiLoFA=",
+        "lastModified": 1775305067,
+        "narHash": "sha256-KFWRYVYPgsXu51stX/7/416qc31HFltfQiHPc6nEmH0=",
         "owner": "haskell-wasm",
         "repo": "ghc-wasm-meta",
-        "rev": "b23f57eb27137f435df4f9326f45b2624eb27385",
+        "rev": "60098a5076557e327b326a1a3ba3b5fb4fec1e49",
         "type": "gitlab"
       },
       "original": {
@@ -100,11 +100,11 @@
       },
       "locked": {
         "host": "gitlab.haskell.org",
-        "lastModified": 1766772552,
-        "narHash": "sha256-uhZuncXNHxCTkVUQCJq7doMxamx6hzLeKVkL1GiLoFA=",
+        "lastModified": 1775305067,
+        "narHash": "sha256-KFWRYVYPgsXu51stX/7/416qc31HFltfQiHPc6nEmH0=",
         "owner": "haskell-wasm",
         "repo": "ghc-wasm-meta",
-        "rev": "b23f57eb27137f435df4f9326f45b2624eb27385",
+        "rev": "60098a5076557e327b326a1a3ba3b5fb4fec1e49",
         "type": "gitlab"
       },
       "original": {
@@ -174,16 +174,16 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1766201043,
-        "narHash": "sha256-eplAP+rorKKd0gNjV3rA6+0WMzb1X1i16F5m5pASnjA=",
+        "lastModified": 1774399958,
+        "narHash": "sha256-Q+g1Np4wyNYpylt8RFM8UprAmyRoA3q3EZj7lQV+ZuQ=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "b3aad468604d3e488d627c0b43984eb60e75e782",
+        "rev": "735a15e91bcb1b3e0883a91d3c9dfd4475d1bc54",
         "type": "github"
       },
       "original": {
         "owner": "NixOS",
-        "ref": "nixos-25.11",
+        "ref": "nixpkgs-25.11-darwin",
         "repo": "nixpkgs",
         "type": "github"
       }
@@ -206,16 +206,16 @@
     },
     "nixpkgs_3": {
       "locked": {
-        "lastModified": 1766201043,
-        "narHash": "sha256-eplAP+rorKKd0gNjV3rA6+0WMzb1X1i16F5m5pASnjA=",
+        "lastModified": 1774399958,
+        "narHash": "sha256-Q+g1Np4wyNYpylt8RFM8UprAmyRoA3q3EZj7lQV+ZuQ=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "b3aad468604d3e488d627c0b43984eb60e75e782",
+        "rev": "735a15e91bcb1b3e0883a91d3c9dfd4475d1bc54",
         "type": "github"
       },
       "original": {
         "owner": "NixOS",
-        "ref": "nixos-25.11",
+        "ref": "nixpkgs-25.11-darwin",
         "repo": "nixpkgs",
         "type": "github"
       }
